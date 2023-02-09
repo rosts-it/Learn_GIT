@@ -1,3 +1,7 @@
 First text
+<<<<<<< HEAD
 
 Changes
+=======
+12
+>>>>>>> new-feature
