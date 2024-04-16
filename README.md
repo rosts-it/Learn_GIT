@@ -1,6 +1,6 @@
-### **git config --global user.name "Ruslan Pashyn"**
+### **git config --global user.name "User Usen"**
 
-### **git config --global user.email rosts.rp@gmail.com**
+### **git config --global user.email user@gmail.com**
 
 ### **git --version**                                - Вывод версии Git
 
